@@ -1,0 +1,6 @@
+name=make
+version=4.4.1
+url=https://ftp.gnu.org/gnu/make/make-4.4.1.tar.gz
+depends=
+iuse=
+build_system=autotools

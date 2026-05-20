@@ -1,0 +1,6 @@
+name=btop
+version=v1.4.7
+url=https://github.com/aristocratos/btop/archive/refs/tags/v1.4.7.tar.gz
+depends=
+iuse=
+build_system=cmake

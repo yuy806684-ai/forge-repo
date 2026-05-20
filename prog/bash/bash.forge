@@ -1,0 +1,6 @@
+name=bash
+version=5.3
+url=https://ftp.gnu.org/gnu/bash/bash-5.3.tar.gz
+depends=
+iuse=
+build_system=autotools

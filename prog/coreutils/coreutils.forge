@@ -1,0 +1,6 @@
+name=coreutils
+version=9.11
+url=https://ftp.gnu.org/gnu/coreutils/coreutils-9.11.tar.xz
+depends=
+iuse=
+build_system=autotools

@@ -1,0 +1,6 @@
+name=grep
+version=3.12
+url=https://ftp.gnu.org/gnu/grep/grep-3.12.tar.xz
+depends=
+iuse=
+build_system=autotools
